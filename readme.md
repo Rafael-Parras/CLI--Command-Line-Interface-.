@@ -1,15 +1,15 @@
-# 🙊 Guia de Sobrevivência: Domínio de Terminal (CLI)
+# 🧠 Guia de Sobrevivência: Domínio de Terminal (CLI)
 
 Este repositório foi criado como parte da disciplina de **Sistemas Operacionais**, utilizando o simulator [Terminal Master](https://andersonrmgomes.github.io/terminal-master/) para praticar comandos essenciais de Windows e Linux.
 
 
 
-## 🙉Introdução
+## 🚀Introdução
 A interface de Linha de comando (CLI) é uma ferramenta poderosa que permite interagir com o núcleo do sistema operacional. Dominar esses comandos é fundamental para automação de tarefas, administração de servidores e desenvolvimento de software.
 
 
 
-## Comandos Aprendidos
+## 🤖Comandos Aprendidos
 
 Abaixo, aprenseto uma lista dos principais comandos praticados durante o treinamento gamificado:
 
